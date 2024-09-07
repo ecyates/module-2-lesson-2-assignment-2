@@ -3,7 +3,7 @@ Author: Elizabeth Yates
 
 In this repo, I'm doing the following assignment: 
 
-1. Nested Decisions: The Adventure Game 🏰
+1. Nested Decisions: The Adventure Game 🏰 (nested_decisions.py)
 
 Objective: To practice the use of nested if statements.
 
@@ -32,7 +32,7 @@ Task 3: Default Path
 
 If the user makes an invalid choice at any point, incorporate a pass statement to handle it. HINT: How can an else statement be of use here?
 
-2. Quick Decisions: The Event Planner 🎉
+2. Quick Decisions: The Event Planner 🎉 (quick_decisions.py)
 
 Objective: To practice the use of shorthand if statements.
 
